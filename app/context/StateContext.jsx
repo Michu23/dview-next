@@ -1,12 +1,12 @@
 
 "use client"
 import React,{ createContext } from 'react'
-import { useGetQuery } from "../custom-hooks/customHooks";
-import { CDM_SITE_ENDPOINT } from "../API/endpoints";
+import { useGetQuery } from "../../custom-hooks/customHooks";
+import { CDM_SITE_ENDPOINT } from "../../API/endpoints";
 
-import Noshow from "../public/assets/Cards/Noshow.svg";
-import Prioritize from "../public/assets/Cards/Table 1.png";
-import Disagreement from "../public/assets/Cards/Data.svg";
+import Noshow from "../../public/assets/Cards/Noshow.svg";
+import Prioritize from "../../public/assets/Cards/Table 1.png";
+import Disagreement from "../../public/assets/Cards/Data.svg";
 
 // import Embark from "../assets/Cards/demo11.svg";
 // import Effortless from "../assets/Cards/Demo/two.png";
@@ -14,8 +14,8 @@ import Disagreement from "../public/assets/Cards/Data.svg";
 // import Prioritize from "../assets/Cards/Demo/four.png";
 // import Disagreement from "../assets/Cards/Demo/five.png";
 
-import Fibre from "../public/assets/Cards/Fibre/Fibre1.svg";
-import Main from "../public/assets/Cards/Image.png";
+import Fibre from "../../public/assets/Cards/Fibre/Fibre1.svg";
+import Main from "../../public/assets/Cards/Image.png";
 
 const StateContext = createContext();
 export default StateContext;

@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import StateContext from "../../context/StateContext";
+import StateContext from "../../app/context/StateContext";
 
 const Success = () => {
     const containerRef = React.useRef(null);

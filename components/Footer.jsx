@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import StateContext from "../context/StateContext";
+import StateContext from "../app/context/StateContext";
 
 const Footer = () => {
   const { footerData } = React.useContext(StateContext);

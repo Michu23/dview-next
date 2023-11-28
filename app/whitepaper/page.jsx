@@ -1,6 +1,6 @@
 import React from "react";
 import Form from "./Form";
-import StateContext from "../../context/StateContext";
+import StateContext from "../context/StateContext";
 
 import DA1 from "../../public/assets/WhitePaper/DA1.jpg";
 import DB1 from "../../public/assets/WhitePaper/DB1.jpg";

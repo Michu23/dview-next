@@ -2,7 +2,7 @@ import React from "react";
 import Main from "../../../public/assets/Cards/Data.svg";
 import CEO from "../../../public/assets/Success/Brittany.jpeg";
 
-import StateContext from "../../../context/StateContext";
+import StateContext from "../../context/StateContext";
 import CTA from "./CTA";
 import Card from "./Card";
 import Demoo from "./Demoo";

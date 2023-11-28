@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef } from "react";
-import StateContext from "../context/StateContext";
+import StateContext from "../app/context/StateContext";
 
 const Demo = () => {
   const { openModal, setOpenModal } = useContext(StateContext);

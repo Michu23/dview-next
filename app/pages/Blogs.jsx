@@ -2,7 +2,7 @@
 import React, { useContext, useEffect, useState } from "react";
 import Dot from "../../public/assets/Ellipse.svg";
 import { Link } from "react-router-dom";
-import StateContext from "../../context/StateContext";
+import StateContext from "../context/StateContext";
 
 import Left from "../../public/assets/Icons/Left.svg";
 import ReactGA from "react-ga4";

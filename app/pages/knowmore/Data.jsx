@@ -1,7 +1,7 @@
 import React from "react";
 
 
-import StateContext from "../../../context/StateContext";
+import StateContext from "../../context/StateContext";
 import CTA from "./CTA";
 // import Card from "./Card";
 import Demoo from "./Demoo";

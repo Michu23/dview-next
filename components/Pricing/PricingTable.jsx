@@ -2,7 +2,7 @@ import React from "react";
 import Done from "../../../public/assets/Icons/Done.png";
 import Close from "../../../public/assets/Icons/Close.png";
 import { Link } from "react-router-dom";
-import StateContext from "../../context/StateContext";
+import StateContext from "../../app/context/StateContext";
 
 const PricingTable = () => {
   const [activeTab, setActiveTab] = React.useState("tab1");

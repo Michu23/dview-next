@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-import StateContext from "../../../context/StateContext";
+import StateContext from "../../context/StateContext";
 import Marquee from './Marquee';
 
 

@@ -1,5 +1,5 @@
 import React from "react";
-import StateContext from "../../../context/StateContext";
+import StateContext from "../../context/StateContext";
 import CTA from "./CTA";
 import Demoo from "./Demoo";
 

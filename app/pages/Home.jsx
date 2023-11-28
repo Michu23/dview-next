@@ -8,7 +8,7 @@ import Lake from "../../components/Home/Lake";
 import Pipeline from "../../components/Home/Pipeline";
 import Success from "../../components/Home/Success";
 
-import StateContext from "../../context/StateContext";
+import StateContext from "../context/StateContext";
 import ReactGA from "react-ga4";
 
 const Home = () => {

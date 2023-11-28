@@ -1,6 +1,6 @@
 "use client"
 import React, { useContext, useEffect, useState } from "react";
-import StateContext from "../../context/StateContext";
+import StateContext from "../context/StateContext";
 import { useParams } from "react-router-dom";
 import { Loader } from "../../components/common";
 import ReactGA from "react-ga4";

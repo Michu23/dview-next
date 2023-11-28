@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import Circle from "../../public/assets/Images/circle.png";
 import Lottie from "lottie-react";
 import Dview from "../../public/assets/Lottie/Comp 1 (3).json";
-import StateContext from "../../context/StateContext";
+import StateContext from "../../app/context/StateContext";
 
 const Image = ({ img, classic }) => {
   return (
