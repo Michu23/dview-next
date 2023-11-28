@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300.2 113.82">
+    <defs>
+        <style>
+            .k {
+                opacity: .47;
+            }
+
+            .k,
+            .l {
+                fill: none;
+            }
+
+            .m {
+                letter-spacing: 0em;
+            }
+
+            .n {
+                letter-spacing: 0em;
+            }
+
+            .o {
+                fill: #bab3d9;
+            }
+
+            .o,
+            .p {
+                opacity: .33;
+            }
+
+            .o,
+            .p,
+            .q,
+            .r,
+            .s,
+            .t,
+            .u,
+            .v,
+            .w,
+            .x,
+            .y,
+            .z,
+            .aa,
+            .l {
+                isolation: isolate;
+            }
+
+            .p,
+            .q,
+            .z {
+                fill: #fafafd;
+            }
+
+            .q {
+                opacity: .18;
+            }
+
+            .ab {
+                letter-spacing: -.01em;
+            }
+
+            .r {
+                fill: url(#g);
+            }
+
+            .r,
+            .s,
+            .t {
+                opacity: .54;
+            }
+
+            .s {
+                fill: url(#e);
+            }
+
+            .t {
+                fill: url(#c);
+            }
+
+            .u {
+                fill: url(#b);
+            }
+
+            .u,
+            .v,
+            .w {
+                opacity: .55;
+            }
+
+            .v {
+                fill: url(#f);
+            }
+
+            .w {
+                fill: url(#d);
+            }
+
+            .x {
+                fill: url(#h);
+            }
+
+            .x,
+            .y {
+                opacity: .44;
+            }
+
+            .y {
+                fill: url(#i);
+            }
+
+            .ac {
+                letter-spacing: 0em;
+            }
+
+            .z {
+                opacity: .51;
+            }
+
+            .aa {
+                fill: #e5e5ec;
+                opacity: .41;
+            }
+
+            .ad {
+                letter-spacing: -.01em;
+            }
+
+            .ae {
+                letter-spacing: -.02em;
+            }
+
+            .af {
+                letter-spacing: 0em;
+            }
+
+            .ag {
+                letter-spacing: .02em;
+            }
+
+            .ah {
+                letter-spacing: -.01em;
+            }
+
+            .ai {
+                letter-spacing: 0em;
+            }
+
+            .l {
+                opacity: .4;
+                stroke: url(#j);
+                stroke-dasharray: 0 0 4 5.6;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+
+            .aj {
+                letter-spacing: 0em;
+            }
+
+            .ak {
+                letter-spacing: 0em;
+            }
+
+            .al {
+                fill: #e9e8e9;
+                font-family: InstrumentSans-Regular, 'Instrument Sans';
+                font-size: 8.8px;
+                font-variation-settings: 'wdth'100, 'wght'400;
+            }
+               @keyframes moveDottedLine {
+                0% {
+                    stroke-dashoffset: 0;
+                }
+
+                100% {
+                    stroke-dashoffset: -250;
+                }
+            }
+
+            .l {
+                animation: moveDottedLine 7s linear infinite;
+                opacity: 0.5;
+                background: linear-gradient(to right,
+                        rgba(0, 0, 0, 1) 0%,
+                        rgba(0, 0, 0, 1) 75%,
+                        rgba(0, 0, 0, 0) 100%) !important;
+            }
+        </style>
+        <linearGradient id="b" x1="108.6" y1="498.02" x2="191.6" y2="498.02" gradientTransform="translate(0 -398)"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#23366e" />
+            <stop offset="1" stop-color="#304e97" />
+        </linearGradient>
+        <linearGradient id="c" x1="95.92" y1="486.44" x2="144.67" y2="506.34" gradientTransform="translate(0 -398)"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#264287" />
+            <stop offset="1" stop-color="#304e97" />
+        </linearGradient>
+        <linearGradient id="d" x1="0" x2="83" xlink:href="#b" />
+        <linearGradient id="e" x1="-12.68" y1="486.44" x2="36.07" y2="506.34" xlink:href="#c" />
+        <linearGradient id="f" x1="217.2" x2="300.2" xlink:href="#b" />
+        <linearGradient id="g" x1="204.52" y1="486.44" x2="253.27" y2="506.33" xlink:href="#c" />
+        <linearGradient id="h" x1="218.6" y1="497.72" x2="244.4" y2="497.72" gradientTransform="translate(0 -398)"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5d5b5c" stop-opacity="0" />
+            <stop offset=".49" stop-color="#fafafd" />
+            <stop offset="1" stop-color="#010101" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="i" x1="231.13" y1="508.94" x2="231.88" y2="486.19" xlink:href="#h" />
+        <linearGradient id="j" x1="80.98" y1="-497.87" x2="164.89" y2="-497.87"
+            gradientTransform="translate(-350.39 -80.98) rotate(90)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#231f20" stop-opacity="0" />
+            <stop offset=".02" stop-color="#2e2b2c" stop-opacity=".06" />
+            <stop offset=".07" stop-color="#524f50" stop-opacity=".26" />
+            <stop offset=".12" stop-color="#737172" stop-opacity=".44" />
+            <stop offset=".18" stop-color="#908e8e" stop-opacity=".59" />
+            <stop offset=".25" stop-color="#a7a6a6" stop-opacity=".72" />
+            <stop offset=".33" stop-color="#bbbaba" stop-opacity=".82" />
+            <stop offset=".41" stop-color="#c9c9c9" stop-opacity=".9" />
+            <stop offset=".52" stop-color="#d4d4d4" stop-opacity=".96" />
+            <stop offset=".66" stop-color="#dadada" stop-opacity=".99" />
+            <stop offset="1" stop-color="#dcdcdc" />
+        </linearGradient>
+    </defs>
+    <g class="k">
+        <path class="o" d="m124.2,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6,0,.3-.3.6-.6.6Z" />
+    </g>
+    <g class="k">
+        <path class="p" d="m121.3,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6s-.3.6-.6.6Z" />
+    </g>
+    <g class="k">
+        <path class="o" d="m127.1,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6s-.2.6-.6.6Z" />
+    </g>
+    <path class="u"
+        d="m177.9,113.82h-55.6c-7.5,0-13.7-6.1-13.7-13.7v-.2c0-7.5,6.1-13.7,13.7-13.7h55.6c7.5,0,13.7,6.1,13.7,13.7v.2c0,7.6-6.1,13.7-13.7,13.7Z" />
+    <path class="t"
+        d="m125.4,113.62h-2.7c-7.5,0-13.7-6.1-13.7-13.7h0c0-7.5,6.1-13.7,13.7-13.7h2.7c7.5,0,13.7,6.1,13.7,13.7h0c-.1,7.6-6.2,13.7-13.7,13.7Z" />
+    <path class="q"
+        d="m123.7,108.82c-4.7,0-8.6-3.8-8.6-8.6s3.8-8.6,8.6-8.6,8.6,3.8,8.6,8.6c-.1,4.8-3.9,8.6-8.6,8.6Zm0-13.9c-3,0-5.4,2.4-5.4,5.4s2.4,5.4,5.4,5.4,5.4-2.4,5.4-5.4c-.1-3-2.4-5.4-5.4-5.4Z" />
+    <path class="aa"
+        d="m129.9,106.12l-2.3-2.2c.9-1,1.5-2.3,1.5-3.7,0-3-2.4-5.4-5.4-5.4v-3.2c4.7,0,8.6,3.8,8.6,8.6-.1,2.2-.9,4.3-2.4,5.9Z" />
+    <g class="k">
+        <path class="o" d="m15.6,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6s-.3.6-.6.6Z" />
+    </g>
+    <g class="k">
+        <path class="p" d="m12.7,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6s-.3.6-.6.6Z" />
+    </g>
+    <g class="k">
+        <path class="o" d="m18.5,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6s-.2.6-.6.6Z" />
+    </g>
+    <path class="w"
+        d="m69.3,113.82H13.7c-7.5,0-13.7-6.1-13.7-13.7v-.2c0-7.5,6.1-13.7,13.7-13.7h55.6c7.5,0,13.7,6.1,13.7,13.7v.2c0,7.6-6.1,13.7-13.7,13.7Z" />
+    <path class="s"
+        d="m16.8,113.62h-2.7c-7.5,0-13.7-6.1-13.7-13.7H.4c0-7.5,6.1-13.7,13.7-13.7h2.7c7.5,0,13.7,6.1,13.7,13.7h0c-.1,7.6-6.2,13.7-13.7,13.7Z" />
+    <path class="o"
+        d="m22.1,95.12v10.9c0,.8-.7,1.5-1.5,1.5h-12.2c-.8,0-1.5-.7-1.5-1.5v-7.7l3.8,1.1,3.8-1,3.9,3.4,3.7-6.7Z" />
+    <g class="k">
+        <path class="o" d="m232.8,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6s-.3.6-.6.6Z" />
+    </g>
+    <g class="k">
+        <path class="p" d="m229.9,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6,0,.3-.3.6-.6.6Z" />
+    </g>
+    <g class="k">
+        <path class="o" d="m235.7,96.12h-.8c-.3,0-.6-.3-.6-.6s.3-.6.6-.6h.8c.3,0,.6.3.6.6,0,.3-.2.6-.6.6Z" />
+    </g>
+    <path class="v"
+        d="m286.5,113.82h-55.6c-7.5,0-13.7-6.1-13.7-13.7v-.2c0-7.5,6.1-13.7,13.7-13.7h55.6c7.5,0,13.7,6.1,13.7,13.7v.2c0,7.6-6.1,13.7-13.7,13.7Z" />
+    <path class="r"
+        d="m234,113.62h-2.7c-7.5,0-13.7-6.1-13.7-13.7h0c0-7.5,6.1-13.7,13.7-13.7h2.7c7.5,0,13.7,6.1,13.7,13.7h0c-.1,7.6-6.2,13.7-13.7,13.7Z" />
+    <circle class="z" cx="232.6" cy="92.42" r=".5" />
+    <circle class="z" cx="237.4" cy="94.22" r=".5" />
+    <circle class="z" cx="239.4" cy="92.42" r=".5" />
+    <circle class="z" cx="238.1" cy="95.92" r=".5" />
+    <circle class="z" cx="239.4" cy="97.32" r=".5" />
+    <circle class="z" cx="234.6" cy="96.62" r=".5" />
+    <circle class="z" cx="236" cy="98.02" r=".5" />
+    <circle class="z" cx="237.4" cy="99.32" r=".5" />
+    <circle class="z" cx="238.1" cy="101.12" r=".5" />
+    <circle class="z" cx="237.4" cy="103.52" r=".5" />
+    <circle class="z" cx="235.7" cy="100.42" r=".5" />
+    <circle class="z" cx="233.6" cy="99.32" r=".5" />
+    <circle class="z" cx="231.2" cy="101.12" r=".5" />
+    <circle class="z" cx="229.8" cy="99.32" r=".5" />
+    <circle class="z" cx="221.9" cy="94.22" r=".5" />
+    <circle class="z" cx="227.4" cy="103.12" r=".5" />
+    <circle class="z" cx="229.5" cy="101.72" r=".5" />
+    <circle class="z" cx="229.5" cy="103.82" r=".5" />
+    <circle class="z" cx="232.2" cy="104.52" r=".5" />
+    <circle class="z" cx="233.6" cy="102.12" r=".5" />
+    <circle class="z" cx="235.7" cy="103.52" r=".5" />
+    <circle class="z" cx="233.9" cy="106.22" r=".5" />
+    <circle class="z" cx="237.4" cy="109.32" r=".5" />
+    <circle class="z" cx="230.1" cy="106.22" r=".5" />
+    <circle class="z" cx="229.5" cy="108.62" r=".5" />
+    <circle class="z" cx="228.1" cy="106.22" r=".5" />
+    <circle class="z" cx="226.7" cy="107.92" r=".5" />
+    <circle class="z" cx="225.3" cy="106.92" r=".5" />
+    <circle class="z" cx="222.5" cy="108.32" r=".5" />
+    <circle class="z" cx="225" cy="109.32" r=".5" />
+    <rect class="x" x="218.6" y="99.52" width="25.8" height=".4" />
+    <polygon class="y" points="231.7 86.82 231.7 112.62 231.3 112.62 231.3 86.82 231.7 86.82" /><text class="al"
+        transform="translate(146.82 102.12) scale(.88 1)">
+        <tspan x="0" y="0">BI </tspan>
+        <tspan class="ab" x="9.6" y="0">t</tspan>
+        <tspan x="12.81" y="0">ools</tspan>
+    </text><text class="al" transform="translate(32.47 98.19) scale(.88 1)">
+        <tspan x="0" y="0">Embedded</tspan>
+        <tspan x="4.62" y="10.76">a</tspan>
+        <tspan class="ac" x="9.31" y="10.76">n</tspan>
+        <tspan x="14.56" y="10.76">al</tspan>
+        <tspan class="ag" x="21.36" y="10.76">y</tspan>
+        <tspan x="26.12" y="10.76">t</tspan>
+        <tspan class="ai" x="29.44" y="10.76">i</tspan>
+        <tspan x="31.53" y="10.76">cs</tspan>
+    </text><text class="al" transform="translate(254.43 96.82) scale(.88 1)">
+        <tspan x="0" y="0">AI </tspan>
+        <tspan class="ae" x="10.41" y="0">A</tspan>
+        <tspan x="16.68" y="0">ge</tspan>
+        <tspan class="ah" x="26.98" y="0">n</tspan>
+        <tspan class="aj" x="32.13" y="0">t</tspan>
+        <tspan class="n" x="35.43" y="0">s</tspan>
+        <tspan x="-3.19" y="10.76">&amp; C</tspan>
+        <tspan class="m" x="11.74" y="10.76">h</tspan>
+        <tspan class="ad" x="16.99" y="10.76">a</tspan>
+        <tspan class="n" x="21.56" y="10.76">tb</tspan>
+        <tspan class="ak" x="30.22" y="10.76">o</tspan>
+        <tspan class="af" x="35.31" y="10.76">t</tspan>
+        <tspan x="38.62" y="10.76">s</tspan>
+    </text>
+    <path class="l"
+        d="m147.49.5v82.91M169.28.5v40.9c0,4.85,5.95,9.15,14.71,10.7l57.49,10.18c8.84,1.55,14.71,5.84,14.71,10.7v10.44M125.78.5v40.9c0,4.85-5.95,9.15-14.8,10.7l-57.41,10.09c-8.84,1.55-14.8,5.84-14.8,10.7v10.52" />
+</svg>

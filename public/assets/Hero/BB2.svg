@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221.4 243.78">
+    <defs>
+        <style>
+            .b {
+                fill: none;
+                opacity: .54;
+            }
+
+            .c {
+                letter-spacing: -.02em;
+            }
+
+            .d {
+                letter-spacing: 0em;
+            }
+
+            .e {
+                letter-spacing: 0em;
+            }
+
+            .f {
+                letter-spacing: -.02em;
+            }
+
+            .g {
+                font-family: InstrumentSans-Regular, 'Instrument Sans';
+                font-size: 10.28px;
+                font-variation-settings: 'wdth'100, 'wght'400;
+            }
+
+            .g,
+            .h {
+                fill: #fff;
+            }
+
+            .h {
+                isolation: isolate;
+                opacity: .63;
+            }
+
+            .i {
+                letter-spacing: -.01em;
+            }
+
+            .j {
+                letter-spacing: 0em;
+            }
+
+            .k {
+                letter-spacing: 0em;
+            }
+
+            .l {
+                letter-spacing: -.02em;
+            }
+
+            .m {
+                letter-spacing: -.01em;
+            }
+        </style>
+    </defs>
+    <g class="b">
+        <path class="h"
+            d="m204.2,3.99h-50.3v1.03h50.3c9,0,16.2,8.34,16.2,18.52v195.11c0,10.29-7.3,18.52-16.2,18.52h-47.7v1.03h47.7c9.4,0,17.2-8.8,17.2-19.66V23.65c-.1-10.74-7.7-19.66-17.2-19.66Z" />
+        <path class="h"
+            d="m64.9,237.39H17.2c-9,0-16.2-8.34-16.2-18.52V23.65C1,13.36,8.3,5.13,17.2,5.13h50.3v-1.03H17.2C7.8,4.1,0,12.9,0,23.76v195.11c0,10.74,7.7,19.66,17.2,19.66h47.7v-1.14Z" />
+    </g><text class="g" transform="translate(75.16 240.74)">
+        <tspan class="j" x="0" y="0">Semantic Layer</tspan>
+    </text><text class="g" transform="translate(80.19 8.84)">
+        <tspan class="c" x="0" y="0">F</tspan>
+        <tspan class="e" x="5.98" y="0">iber + </tspan>
+        <tspan class="f" x="33.89" y="0">A</tspan>
+        <tspan x="41.11" y="0">q</tspan>
+        <tspan class="k" x="47.34" y="0">u</tspan>
+        <tspan x="53.35" y="0">a</tspan>
+    </text>
+</svg>

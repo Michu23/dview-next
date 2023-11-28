@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" cy="100" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 530.55 542.59">
+    <defs>
+        <style>
+            .ad {
+                fill: url(#ac);
+            }
+
+            .ae {
+                fill: url(#aa);
+            }
+
+            .af {
+                fill: url(#ab);
+            }
+
+            .ag {
+                fill: url(#u);
+            }
+
+            .ah {
+                fill: url(#t);
+            }
+
+            .ai {
+                fill: url(#y);
+            }
+
+            .aj {
+                fill: url(#w);
+            }
+
+            .ak {
+                fill: url(#x);
+            }
+
+            .al {
+                fill: url(#z);
+            }
+
+            .am {
+                fill: url(#g);
+            }
+
+            .an {
+                fill: url(#h);
+            }
+
+            .ao {
+                fill: url(#i);
+            }
+
+            .ap {
+                fill: url(#q);
+            }
+
+            .aq {
+                fill: url(#r);
+            }
+
+            .ar {
+                fill: url(#p);
+            }
+
+            .as {
+                fill: url(#k);
+            }
+
+            .at {
+                fill: url(#l);
+            }
+
+            .au {
+                fill: url(#f);
+            }
+
+            .av {
+                fill: url(#d);
+            }
+
+            .aw {
+                fill: url(#s);
+            }
+
+            .ax {
+                fill: url(#e);
+            }
+
+            .ay {
+                fill: url(#c);
+            }
+
+            .az {
+                fill: url(#b);
+            }
+
+            .ba {
+                fill: url(#v);
+            }
+
+            .bb {
+                opacity: .62;
+            }
+
+            .bb,
+            .bc,
+            .bd,
+            .be,
+            .bf,
+            .bg {
+                fill: none;
+            }
+
+            .bc {
+                isolation: isolate;
+            }
+
+            .bh {
+                letter-spacing: 0em;
+            }
+
+            .bi,
+            .bj {
+                fill: #fff;
+            }
+
+            .bk {
+                fill: #041527;
+            }
+
+            .bd {
+                stroke: #fff;
+            }
+
+            @keyframes moveDottedLine {
+                0% {
+                    stroke-dashoffset: 0;
+                }
+
+                100% {
+                    stroke-dashoffset: -250;
+                }
+            }
+
+            .bd,
+            .be,
+            .bf,
+            .bg {
+                stroke-dasharray: 0 0 4 3;
+                stroke-miterlimit: 10;
+                animation: moveDottedLine 30s linear infinite !important;
+                opacity: 0.5;
+            }
+
+            .bl {
+                letter-spacing: -.01em;
+            }
+
+            .be {
+                stroke: url(#o);
+            }
+
+            .bf {
+                stroke: url(#m);
+            }
+
+            .bg {
+                stroke: url(#n);
+            }
+
+            .bm {
+                letter-spacing: 0em;
+            }
+
+            .bn {
+                letter-spacing: -.03em;
+            }
+
+            .bo {
+                letter-spacing: .02em;
+            }
+
+            .bp {
+                letter-spacing: 0em;
+            }
+
+            .bq {
+                letter-spacing: -.01em;
+            }
+
+            .br {
+                fill: url(#j);
+                mix-blend-mode: hard-light;
+            }
+
+            .bs {
+                letter-spacing: 0em;
+            }
+
+            .bj {
+                font-family: InstrumentSans-SemiBold, 'Instrument Sans';
+                font-size: 17.22px;
+                font-variation-settings: 'wdth'100, 'wght'600;
+                font-weight: 600;
+            }
+
+            .bt {
+                letter-spacing: 0em;
+            }
+
+            .bu {
+                letter-spacing: 0em;
+            }
+
+
+.bb{
+  animation: up-down linear infinite 20s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: up-down linear 4s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: up-down linear 4s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: up-down linear 4s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: up-down linear 4s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+}
+
+@keyframes up-down{
+  0% {
+    transform:  translate(1px,0px)  ;
+  }
+  24% {
+    transform:  translate(1px,-10px)  ;
+  }
+  50% {
+    transform:  translate(1px,0px)  ;
+  }
+  74% {
+    transform:  translate(1px,-10px)  ;
+  }
+  100% {
+    transform:  translate(1px,0px)  ;
+  }
+}
+        </style>
+        <linearGradient id="b" x1="257.13" y1="128.27" x2="530.55" y2="128.27" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3a2aa4" />
+            <stop offset=".22" stop-color="#5c32b6" />
+            <stop offset=".57" stop-color="#7533b4" />
+            <stop offset="1" stop-color="#81d9bf" />
+        </linearGradient>
+        <linearGradient id="c" x1="258.11" y1="128.71" x2="529.57" y2="128.71" gradientUnits="userSpaceOnUse">
+            <stop offset=".02" stop-color="#2666c4" />
+            <stop offset="1" stop-color="#203567" />
+        </linearGradient>
+        <linearGradient id="d" x1="486.61" y1="348.93" x2="189.9" y2="254.27" gradientUnits="userSpaceOnUse">
+            <stop offset=".02" stop-color="#2666c4" />
+            <stop offset="1" stop-color="#203567" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="e" x1="260.36" y1="367.81" x2="586.35" y2="252.84" xlink:href="#c" />
+        <linearGradient id="f" x1="467.17" y1="-450.31" x2="451.59" y2="-316.61" gradientTransform="translate(0 700)"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#0e20d5" />
+            <stop offset="1" stop-color="#fff" />
+        </linearGradient>
+        <linearGradient id="g" x1="265.6" y1="109.94" x2="520.12" y2="109.94" xlink:href="#b" />
+        <linearGradient id="h" x1="265.6" y1="88.58" x2="520.12" y2="88.58" xlink:href="#b" />
+        <linearGradient id="i" x1="265.6" y1="120.62" x2="520.12" y2="120.62" xlink:href="#b" />
+        <linearGradient id="j" x1="239.04" y1="273.57" x2="495.37" y2="-59.98" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" stop-opacity="0" />
+            <stop offset="1" stop-color="#f6f6f6" />
+        </linearGradient>
+        <linearGradient id="k" x1="315.37" y1="155.59" x2="343.14" y2="101.3" gradientUnits="userSpaceOnUse">
+            <stop offset=".2" stop-color="#fff" stop-opacity="0" />
+            <stop offset="1" stop-color="#f6f6f6" />
+        </linearGradient>
+        <linearGradient id="l" x1="467.87" y1="147.86" x2="446.55" y2="111.62" xlink:href="#k" />
+        <linearGradient id="m" x1="224.79" y1="423.99" x2="250.51" y2="423.99" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#203567" stop-opacity="0" />
+            <stop offset=".04" stop-color="#394c78" stop-opacity=".11" />
+            <stop offset=".11" stop-color="#677597" stop-opacity=".32" />
+            <stop offset=".18" stop-color="#8f9ab3" stop-opacity=".5" />
+            <stop offset=".25" stop-color="#b2b9ca" stop-opacity=".66" />
+            <stop offset=".33" stop-color="#ced2dd" stop-opacity=".78" />
+            <stop offset=".41" stop-color="#e3e6ec" stop-opacity=".88" />
+            <stop offset=".49" stop-color="#f2f4f6" stop-opacity=".95" />
+            <stop offset=".58" stop-color="#fcfcfd" stop-opacity=".99" />
+            <stop offset=".68" stop-color="#fff" />
+        </linearGradient>
+        <linearGradient id="n" x1="228.79" y1="367.99" x2="254.51" y2="367.99" xlink:href="#m" />
+        <linearGradient id="o" x1="223.79" y1="313.99" x2="249.51" y2="313.99" xlink:href="#m" />
+        <linearGradient id="p" x1="90.88" y1="272.44" x2="372.28" y2="139.67" xlink:href="#c" />
+        <linearGradient id="q" x1="247.93" y1="308.46" x2="35.78" y2="240.78" xlink:href="#c" />
+        <linearGradient id="r" x1="170.2" y1="480.31" x2="275.26" y2="443.26" xlink:href="#c" />
+        <linearGradient id="s" x1="51.85" y1="403.04" x2="143.67" y2="401.72" xlink:href="#c" />
+        <linearGradient id="t" x1="251.93" y1="471.46" x2="39.78" y2="403.78" xlink:href="#c" />
+        <linearGradient id="u" x1="166.2" y1="425.31" x2="271.26" y2="388.26" xlink:href="#c" />
+        <linearGradient id="v" x1="47.85" y1="348.04" x2="139.67" y2="346.72" xlink:href="#c" />
+        <linearGradient id="w" x1="247.93" y1="416.46" x2="35.78" y2="348.78" xlink:href="#c" />
+        <linearGradient id="x" x1="166.2" y1="371.31" x2="271.26" y2="334.26" xlink:href="#c" />
+        <linearGradient id="y" x1="47.85" y1="294.04" x2="139.67" y2="292.72" xlink:href="#c" />
+        <linearGradient id="z" x1="247.93" y1="362.46" x2="35.78" y2="294.78" xlink:href="#c" />
+        <linearGradient id="aa" x1="166.2" y1="317.31" x2="271.26" y2="280.26" xlink:href="#c" />
+        <linearGradient id="ab" x1="90.88" y1="272.44" x2="372.28" y2="139.67" xlink:href="#c" />
+        <linearGradient id="ac" x1="247.93" y1="308.46" x2="35.78" y2="240.78" xlink:href="#c" />
+    </defs>
+    <g class="bc" transform="translate(0,10)">
+        <g id="a">
+            <polygon class="az" points="392.86 206.6 257.13 127.74 392.86 49.94 530.55 128.5 392.86 206.6" />
+            <polygon class="ay" points="393.84 207.04 258.11 128.17 393.85 50.37 529.57 127.81 393.84 207.04" />
+            <polyline class="av" points="260.85 391.88 393.84 466.28 393.84 207.04 260.85 129.96 260.85 166.88" />
+            <polygon class="ax" points="529.57 127.81 393.84 206.05 393.84 465.78 529.57 389.48 529.57 127.81" />
+            <path class="bk"
+                d="m485.33,335.87l-45.86,24.4c-7.93,4.2-14.3-1.4-14.3-12.59v-67.93c0-11.19,6.53-23.01,14.3-26.58l45.86-20.36c7.15-3.26,12.9,2.8,12.9,13.21v63.89c0,10.57-5.75,22.07-12.9,25.96Z" />
+            <path class="bi"
+                d="m439.17,313.64l20.83,6.68c1.71.62,3.89-.47,5.75-2.95l19.9-26.74c1.55-2.02,1.55-5.28,0-5.75l-19.9-7.15c-1.71-.62-3.89.31-5.75,2.64l-20.83,27.2c-1.71,2.33-1.71,5.6,0,6.06Z" />
+            <path class="au"
+                d="m439.17,305.25l20.83,6.84c1.71.62,3.89-.47,5.75-2.8l19.9-26.58c1.55-2.02,1.55-5.28,0-5.75l-19.9-7.31c-1.71-.62-3.89.31-5.75,2.64l-20.83,27.05c-1.71,2.02-1.71,5.44,0,5.91Z" />
+            <g class="bb">
+                <polygon class="am" points="393.6 182.34 265.6 110.49 392.86 37.55 520.12 110.16 393.6 182.34" />
+                <polygon class="an" points="393.6 160.97 265.6 89.13 392.86 16.18 520.12 88.79 393.6 160.97" />
+                <polygon class="ao" points="393.6 193.02 265.6 121.17 392.86 48.23 520.12 120.84 393.6 193.02" />
+                <polygon class="br" points="392.86 146.88 520.12 73.43 392.94 0 265.6 73.4 392.86 146.88" />
+                <polygon class="as" points="265.6 73.4 265.6 110.49 392.86 183.6 392.86 146.88 265.6 73.4" />
+                <polygon class="at" points="392.86 146.88 520.12 73.43 520.12 110.16 392.86 183.6 392.86 146.88" />
+            </g>
+            <line class="bd" x1="178.59" y1="282.14" x2="316.39" y2="204.67" />
+            <line class="bd" x1="187.59" y1="452.14" x2="325.39" y2="374.67" />
+            <line class="bf" x1="225.04" y1="431.08" x2="250.26" y2="416.9" />
+            <line class="bd" x1="191.59" y1="396.14" x2="329.39" y2="318.67" />
+            <line class="bg" x1="229.04" y1="375.08" x2="254.26" y2="360.9" />
+            <line class="bd" x1="186.59" y1="342.14" x2="324.39" y2="264.67" />
+            <line class="be" x1="224.04" y1="321.08" x2="249.26" y2="306.9" />
+            <polygon class="ar" points="124.23 182.31 66.19 215.58 201.92 294.44 260.26 261.35 124.23 182.31" />
+            <polyline class="ap" points="66.19 252.76 201.92 328.68 201.92 294.44 66.19 215.58 66.19 252.76" /><text
+                class="bj" transform="translate(100.14 258.92) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan class="bl" x="0" y="0">D</tspan>
+                <tspan class="bn" x="12.79" y="0">a</tspan>
+                <tspan class="bp" x="21.92" y="0">t</tspan>
+                <tspan x="28.79" y="0">a</tspan>
+                <tspan class="bm" x="38.39" y="0">b</tspan>
+                <tspan class="bu" x="49.07" y="0">a</tspan>
+                <tspan class="bo" x="58.5" y="0">s</tspan>
+                <tspan class="bs" x="67.32" y="0">e</tspan>
+                <tspan x="77.2" y="0">s</tspan>
+            </text><text class="bj" transform="translate(100.14 258.92) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan class="bl" x="0" y="0">D</tspan>
+                <tspan class="bn" x="12.79" y="0">a</tspan>
+                <tspan class="bp" x="21.92" y="0">t</tspan>
+                <tspan x="28.79" y="0">a</tspan>
+                <tspan class="bm" x="38.39" y="0">b</tspan>
+                <tspan class="bu" x="49.07" y="0">a</tspan>
+                <tspan class="bo" x="58.5" y="0">s</tspan>
+                <tspan class="bs" x="67.32" y="0">e</tspan>
+                <tspan x="77.2" y="0">s</tspan>
+            </text>
+            <polygon class="aq" points="264.26 423.66 205.92 456.46 205.92 491.19 264.26 458.39 264.26 423.66" />
+            <polygon class="aw" points="128.23 345.31 70.19 378.58 205.92 457.44 264.26 424.35 128.23 345.31" />
+            <polyline class="ah" points="70.19 415.76 205.92 491.68 205.92 457.44 70.19 378.58 70.19 415.76" /><text
+                class="bj" transform="translate(125.07 434) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan class="bq" x="0" y="0">F</tspan>
+                <tspan x="10.04" y="0">il</tspan>
+                <tspan class="bs" x="18.99" y="0">e</tspan>
+                <tspan x="28.87" y="0">s</tspan>
+            </text><text class="bj" transform="translate(125.07 434) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan class="bq" x="0" y="0">F</tspan>
+                <tspan x="10.04" y="0">il</tspan>
+                <tspan class="bs" x="18.99" y="0">e</tspan>
+                <tspan x="28.87" y="0">s</tspan>
+            </text>
+            <polygon class="ag" points="260.26 368.66 201.92 401.46 201.92 436.19 260.26 403.39 260.26 368.66" />
+            <polygon class="ba" points="124.23 290.31 66.19 323.58 201.92 402.44 260.26 369.35 124.23 290.31" />
+            <polyline class="aj" points="66.19 360.76 201.92 436.68 201.92 402.44 66.19 323.58 66.19 360.76" /><text
+                class="bj" transform="translate(124.92 381.23) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan x="0" y="0">API</tspan>
+            </text><text class="bj" transform="translate(124.92 381.23) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan x="0" y="0">API</tspan>
+            </text>
+            <polygon class="ak" points="260.26 314.66 201.92 347.46 201.92 382.19 260.26 349.39 260.26 314.66" />
+            <polygon class="ai" points="124.23 236.31 66.19 269.58 201.92 348.44 260.26 315.35 124.23 236.31" />
+            <polyline class="al" points="66.19 306.76 201.92 382.68 201.92 348.44 66.19 269.58 66.19 306.76" /><text
+                class="bj" transform="translate(97.64 311.48) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan x="0" y="0">Clo</tspan>
+                <tspan class="bt" x="27.62" y="0">u</tspan>
+                <tspan x="37.93" y="0">d ap</tspan>
+                <tspan class="bh" x="72.24" y="0">p</tspan>
+                <tspan x="82.97" y="0">s</tspan>
+            </text><text class="bj" transform="translate(97.64 311.48) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan x="0" y="0">Clo</tspan>
+                <tspan class="bt" x="27.62" y="0">u</tspan>
+                <tspan x="37.93" y="0">d ap</tspan>
+                <tspan class="bh" x="72.24" y="0">p</tspan>
+                <tspan x="82.97" y="0">s</tspan>
+            </text>
+            <polygon class="ae" points="260.26 260.66 201.92 293.46 201.92 328.19 260.26 295.39 260.26 260.66" />
+            <polygon class="af" points="124.23 182.31 66.19 215.58 201.92 294.44 260.26 261.35 124.23 182.31" />
+            <polyline class="ad" points="66.19 252.76 201.92 328.68 201.92 294.44 66.19 215.58 66.19 252.76" /><text
+                class="bj" transform="translate(100.14 258.92) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan class="bl" x="0" y="0">D</tspan>
+                <tspan class="bn" x="12.79" y="0">a</tspan>
+                <tspan class="bp" x="21.92" y="0">t</tspan>
+                <tspan x="28.79" y="0">a</tspan>
+                <tspan class="bm" x="38.39" y="0">b</tspan>
+                <tspan class="bu" x="49.07" y="0">a</tspan>
+                <tspan class="bo" x="58.5" y="0">s</tspan>
+                <tspan class="bs" x="67.32" y="0">e</tspan>
+                <tspan x="77.2" y="0">s</tspan>
+            </text><text class="bj" transform="translate(100.14 258.92) rotate(30) scale(1 .87) skewX(26.56)">
+                <tspan class="bl" x="0" y="0">D</tspan>
+                <tspan class="bn" x="12.79" y="0">a</tspan>
+                <tspan class="bp" x="21.92" y="0">t</tspan>
+                <tspan x="28.79" y="0">a</tspan>
+                <tspan class="bm" x="38.39" y="0">b</tspan>
+                <tspan class="bu" x="49.07" y="0">a</tspan>
+                <tspan class="bo" x="58.5" y="0">s</tspan>
+                <tspan class="bs" x="67.32" y="0">e</tspan>
+                <tspan x="77.2" y="0">s</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
